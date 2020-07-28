@@ -1,7 +1,7 @@
 import React from 'react';
 import nerdflix from '../../assets/nerdflix.png'
 import './Menu.css'
-
+import ButtonLink from './components/ButtonLink'
 
 function Menu() {
     return (
@@ -9,9 +9,9 @@ function Menu() {
             <a href="/">
                 <img className="Logo" src={nerdflix} alt="Logo da NerdFlix" />
             </a>
-            <a className="ButtonLink" href="/">
+            <ButtonLink className="ButtonLink" href="/">
                 Novo vídeo
-            </a>
+            </ButtonLink>
         </nav>
     )
 }
