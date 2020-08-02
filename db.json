@@ -1,0 +1,222 @@
+{
+    "categorias": [
+      {
+        "titulo": "5 séries prediletas",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#6BD1FF",
+  
+        "videos": [
+          {
+            "titulo": "D A R K",
+            "url": "https://www.youtube.com/watch?v=WLH9biwfZVM"
+          },
+          {
+            "titulo": "The Witcher",
+            "url": "https://www.youtube.com/watch?v=tjujvMkqWe4"
+          },
+          {
+            "titulo": "Stranger Things",
+            "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+          },
+          {
+            "titulo": "Anne With An E",
+            "url": "https://www.youtube.com/watch?v=bBervTlBurY"
+          },
+          {
+            "titulo": "The Flash",
+            "url": "https://www.youtube.com/watch?v=Yj0l7iGKh8g"
+          },
+          {
+            "titulo": "D A R K",
+            "url": "https://www.youtube.com/watch?v=WLH9biwfZVM"
+          }      
+        ]
+      },
+      {
+        "titulo": "5 filmes prediletos",
+        "cor": "#00C86F",
+        "videos": [
+          {
+            "titulo": "Star Wars - Saga Skywalker",
+            "url": "https://www.youtube.com/watch?v=U10AhNadRLM&t=21s"
+          },
+          {
+            "titulo": "Trilogia Senhor dos Anéis",
+            "url": "https://www.youtube.com/watch?v=cEknWmwZaXk&t=28s"
+          },
+          {
+            "titulo": "Curtindo a Vida Adoidado",
+            "url": "https://www.youtube.com/watch?v=oZ7Xy-kf-dc"
+          },
+          {
+            "titulo": "Clube dos Cinco",
+            "url": "https://www.youtube.com/watch?v=EmqkaxOw6_o"
+          }, 
+          {
+            "titulo": "Scott Pilgrim Contra o Mundo",
+            "url": "https://www.youtube.com/watch?v=7wd5KEaOtm4"
+          }
+        ]
+      },
+      {
+        "titulo": "5 games prediletos",
+        "cor": "#9cd33b",
+        "videos": [
+          {
+            "titulo": "Stardew Valley",
+            "url": "https://www.youtube.com/watch?v=ot7uXNQskhs&t=9s"
+          },
+          {
+            "titulo": "Skyrim",
+            "url": "https://www.youtube.com/watch?v=JSRtYpNRoN0&has_verified=1"
+          },
+          {
+            "titulo": "Super Mario World",
+            "url": "https://www.youtube.com/watch?v=RJ1w-venSAE"
+          },
+          {
+            "titulo": "Pokemon White",
+            "url": "https://www.youtube.com/watch?v=PrYtQMfcyKA"
+          },
+          {
+            "titulo": "TLoZ: Ocarina Of Time",
+            "url": "https://www.youtube.com/watch?v=Jfg6RfClZJg"
+          }
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Interestellar",
+            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          },
+          {
+            "titulo": "Trilogia De Volta Para o Futuro",
+            "url": "https://www.youtube.com/watch?v=qvsgGtivCgs"
+          },
+          {
+            "titulo": "A Chegada",
+            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          },
+          {
+            "titulo": "Feitiço do Tempo",
+            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          },
+          {
+            "titulo": "Star Wars - Saga Skywalker",
+            "url": "https://www.youtube.com/watch?v=U10AhNadRLM&t=21s"
+          },
+          {
+            "titulo": "Trilogia Senhor dos Anéis",
+            "url": "https://www.youtube.com/watch?v=cEknWmwZaXk&t=28s"
+          },
+          {
+            "titulo": "Curtindo a Vida Adoidado",
+            "url": "https://www.youtube.com/watch?v=oZ7Xy-kf-dc"
+          },
+          {
+            "titulo": "Clube dos Cinco",
+            "url": "https://www.youtube.com/watch?v=EmqkaxOw6_o"
+          }, 
+          {
+            "titulo": "Scott Pilgrim Contra o Mundo",
+            "url": "https://www.youtube.com/watch?v=7wd5KEaOtm4"
+          }
+        ]
+      },
+      {
+        "titulo": "Games",
+        "cor": "red",
+        "videos": [
+          {
+            "titulo": "Final Fantasy 7",
+            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          },
+          {
+            "titulo": "Assassins Creed Valhalla",
+            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          },
+          {
+            "titulo": "God of War 4",
+            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          },
+          {
+            "titulo": "Resident Evil 8",
+            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          },
+          {
+            "titulo": "Pokémon Let's Go Pikachu/Eevee",
+            "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          },
+          {
+            "titulo": "Stardew Valley",
+            "url": "https://www.youtube.com/watch?v=ot7uXNQskhs&t=9s"
+          },
+          {
+            "titulo": "Skyrim",
+            "url": "https://www.youtube.com/watch?v=JSRtYpNRoN0&has_verified=1"
+          },
+          {
+            "titulo": "Super Mario World",
+            "url": "https://www.youtube.com/watch?v=RJ1w-venSAE"
+          },
+          {
+            "titulo": "Pokemon White",
+            "url": "https://www.youtube.com/watch?v=PrYtQMfcyKA"
+          },
+          {
+            "titulo": "TLoZ: Ocarina Of Time",
+            "url": "https://www.youtube.com/watch?v=Jfg6RfClZJg"
+          }
+        ]
+      },
+      {
+        "titulo": "Séries",
+        "cor": "#6b5be2",
+        "videos": [
+          {
+            "titulo": "Brooklyn Nine Nine",
+            "url": "https://www.youtube.com/watch?v=1GTVc1pLJKw&t=1s"
+          },
+          {
+            "titulo": "The Office",
+            "url": "https://www.youtube.com/watch?v=mRox23WtU_4&t=39s"
+          },
+          {
+            "titulo": "Unbreakable Kimmy Schimdt",
+            "url": "https://www.youtube.com/watch?v=LIdFa1qLgNQ"
+          },
+          {
+            "titulo": "Caçadores de Trolls",
+            "url": "https://www.youtube.com/watch?v=QWABAs-Qahs"
+          },
+          {
+            "titulo": "O Principe Dragão",
+            "url": "https://www.youtube.com/watch?v=ocaFUl-pQ4E"
+          },
+          {
+            "titulo": "The Witcher",
+            "url": "https://www.youtube.com/watch?v=tjujvMkqWe4"
+          },
+          {
+            "titulo": "Stranger Things",
+            "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+          },
+          {
+            "titulo": "Anne With An E",
+            "url": "https://www.youtube.com/watch?v=bBervTlBurY"
+          },
+          {
+            "titulo": "The Flash",
+            "url": "https://www.youtube.com/watch?v=Yj0l7iGKh8g"
+          },
+          {
+            "titulo": "D A R K",
+            "url": "https://www.youtube.com/watch?v=WLH9biwfZVM"
+          }
+        ]
+      }
+    ]
+  }
